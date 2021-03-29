@@ -1,6 +1,7 @@
 https://trainyourprogrammer.de
-67ff
+67ff [22]
 119 Darts
+120 Pi-Berechnung/Leibnitz-Reihe
 122 Berechnung von e
 128 Beharrlichkeit
 132 Cosinus-Näherung [p17]
